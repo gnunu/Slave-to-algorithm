@@ -5,7 +5,7 @@ My level of practice. I do not know HTML, CSS but a bit of understanding of Java
 Here is a code that I made during this holiday. https://editor.p5js.org/Athena/sketches/aUL__Z7Fc
 I am at a very beginning level and willing to learn more. 
 
-<h1>Note from pre-reading</h1>
+## Note from pre-reading
 Which gives me a bit of understanding of what generative art is.
 
 “Why Love Generative Art?”
