@@ -30,6 +30,14 @@ shows images of kinds of generative art. It gives me some knowledge of what gene
 # Takeaway from class
 
 <body>In today’s class, Karen talks about what is generative art and introduces a list of artist are their works.
+ 
+ 
+ ![](IMG_9870.jpg)
+ 
+ ![](IMG_9871.jpg)
+ 
+ ![](IMG_9867.jpg)
+ 
  https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%201/IMG_9867.jpg
 
 
@@ -39,6 +47,8 @@ This one really shocks me of how real these people look.
 
 https://www.isaidif.net
 This one impressed me the most. When I was clicking it what came to my mind is that it looks like a prototype of people’s footprint on the internet work in nowadays. Every step is quite random but with thousands of connections.
+
+![](Screen Shot 2020-07-30 at 16.48.14.png)
 
 http://davidjklein.ca/No-Regrets
 And this one, I really like the idea of words changed after time and if people who can not read it within a period that they set them this letter would be unreadable.
@@ -56,9 +66,15 @@ http://ravenkwok.com/big-brothers-are-watching-you/
 We made a painting system with some essential elements. 
 This is the outcome
 
+![](Screen Shot 2020-07-24 at 12.43.30.png)
+
 2.5 fingerprint,3.3 left, 5.5 dodo, 6.4 curly, 2.5 999, 5.4 dragonfly
 
+![](IMG_9868.jpg)
+
 6.4 curly, 3.4 right, 5.4 dragonfly, 2.6 smooth, 6.2 Zapfino, 5.3 46
+
+![](IMG_9869.jpg)
 
 Although I and my group number share the same system, there is still a lot of difference in between. This could be an outframe of a coding system.
 
@@ -66,5 +82,5 @@ It sounds like a straightforward activity, but it made me realised how a system 
 
 The example that one of my peer talks about the rules of making a breakfast made me understand that anything can be a system and anything can be code. For me, when I was doing the code during the holiday, when I think about the outcome, I would only think of what should I write to make it happen. But now I understand that what I need is a bit of analysing of order, rules and think of it by how. 
 
-![](IMG_9867.jpg)
+
 
