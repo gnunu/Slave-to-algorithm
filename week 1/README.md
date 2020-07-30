@@ -27,9 +27,9 @@ shows images of kinds of generative art. It gives me some knowledge of what gene
 
 
 
-<h1>Takeaway from class<h1/>
+<h1>Takeaway from class <h1/>
 
-In today’s class, Karen talks about what is generative art and introduces a list of artist are their works.
+<body>In today’s class, Karen talks about what is generative art and introduces a list of artist are their works.
 
 
 I looked up some base on my interest
@@ -47,11 +47,11 @@ Note for further study
 http://ravenkwok.com/autotroph/ 
 
 http://ravenkwok.com/big-brothers-are-watching-you/
+<body/>
 
 
 
-
-Activity
+<h1>Activity<h1/>
 We made a painting system with some essential elements. 
 This is the outcome
 
