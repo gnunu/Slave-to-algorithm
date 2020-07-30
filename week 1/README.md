@@ -66,5 +66,5 @@ It sounds like a straightforward activity, but it made me realised how a system 
 
 The example that one of my peer talks about the rules of making a breakfast made me understand that anything can be a system and anything can be code. For me, when I was doing the code during the holiday, when I think about the outcome, I would only think of what should I write to make it happen. But now I understand that what I need is a bit of analysing of order, rules and think of it by how. 
 
-https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%201/IMG_9867.jpg
+![](IMG_9867.jpg)
 
