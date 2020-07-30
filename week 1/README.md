@@ -32,7 +32,7 @@ shows images of kinds of generative art. It gives me some knowledge of what gene
 <body>In today’s class, Karen talks about what is generative art and introduces a list of artist are their works.
  
  
- <img scr="IMG_9870.jpg" height="600">
+![](IMG_9870.jpg)
  
  ![](IMG_9871.jpg)
  
