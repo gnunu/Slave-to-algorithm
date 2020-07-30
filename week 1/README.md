@@ -27,12 +27,12 @@ shows images of kinds of generative art. It gives me some knowledge of what gene
 
 
 
-# Takeaway from class
+## Takeaway from class
 
 <body>In today’s class, Karen talks about what is generative art and introduces a list of artist are their works.
  
  
- ![](IMG_9870.jpg)
+ <img scr="IMG_9870.jpg" height="600">
  
  ![](IMG_9871.jpg)
  
@@ -62,7 +62,7 @@ http://ravenkwok.com/big-brothers-are-watching-you/
 
 
 
-# Activity
+## Activity
 We made a painting system with some essential elements. 
 This is the outcome
 
