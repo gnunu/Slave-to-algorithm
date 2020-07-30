@@ -30,6 +30,7 @@ shows images of kinds of generative art. It gives me some knowledge of what gene
 # Takeaway from class
 
 <body>In today’s class, Karen talks about what is generative art and introduces a list of artist are their works.
+  week 1/IMG_9867.jpg
 
 
 I looked up some base on my interest
