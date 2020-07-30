@@ -27,9 +27,10 @@ shows images of kinds of generative art. It gives me some knowledge of what gene
 
 
 
-
+<h1>Takeaway from class<h1/>
 
 In today’s class, Karen talks about what is generative art and introduces a list of artist are their works.
+
 
 I looked up some base on my interest
 https://thispersondoesnotexist.com
@@ -54,19 +55,9 @@ Activity
 We made a painting system with some essential elements. 
 This is the outcome
 
-2.5 fingerprint
-3.3 left
-5.5 dodo
-6.4 curly
-2.5 999
-5.4 dragonfly
+2.5 fingerprint,3.3 left, 5.5 dodo, 6.4 curly, 2.5 999, 5.4 dragonfly
 
-6.4 curly
-3.4 right
-5.4 dragonfly
-2.6 smooth
-6.2 Zapfino
-5.3 46
+6.4 curly, 3.4 right, 5.4 dragonfly, 2.6 smooth, 6.2 Zapfino, 5.3 46
 
 Although I and my group number share the same system, there is still a lot of difference in between. This could be an outframe of a coding system.
 
