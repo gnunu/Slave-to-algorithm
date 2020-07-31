@@ -37,7 +37,6 @@ shows images of kinds of generative art. It gives me some knowledge of what gene
  
  ![](IMG_9867.jpg)
  
- https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%201/IMG_9867.jpg
 
 
 I looked up some base on my interest
