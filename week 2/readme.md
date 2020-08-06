@@ -28,4 +28,19 @@ Link https://youtu.be/rHtb9QYsV7M
 ## What I learn
 I learn not only how to code of drawing but also form a way of thinking. The thinking of order and making everything logically and put them in a system. I would not think about how to draw/do something with the order in my mind before. But after these two weeks of studying, this kind of way of thinking grows.
 
+## Open processing
+Eyeballs by Jones Yu 
+This is the effect that I want to achieve last week for remixing other people's work.
+https://www.openprocessing.org/sketch/872825
+
+Underground Passage by Naoki Tsutae 
+https://www.openprocessing.org/sketch/817108
+
+https://www.openprocessing.org/sketch/907601
+
+Organic
+by Gábor Törőcsik-Nagy 
+https://www.openprocessing.org/sketch/238882
+
+
  
