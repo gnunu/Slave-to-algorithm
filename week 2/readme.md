@@ -19,6 +19,9 @@ Here is my self-portrait (interactive)
 ![](portrait 2 (with code).jpg)
 
 And this is the one that I change other people’s code.
+
+![](portrait 2 (with code).jpg)
+
 I made it interactive by letting the eyeball changed as the mouse move. And give it blush when the key is pressed. I made a small video show how it moves with the movie maker in processing.
 Link https://youtu.be/rHtb9QYsV7M
 
