@@ -64,8 +64,8 @@ http://ravenkwok.com/big-brothers-are-watching-you/
 We made a painting system with some essential elements. 
 This is the outcome
 
-![](Screen Shot 2020-07-24 at 12.43.30.png)
-![](Screen Shot 2020-07-24 at 12.43.30.png)
+![](resesrch.jpg)
+
 2.5 fingerprint,3.3 left, 5.5 dodo, 6.4 curly, 2.5 999, 5.4 dragonfly
 
 ![](IMG_9868.jpg)
