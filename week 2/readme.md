@@ -16,7 +16,7 @@ Note from class.
 We learned how to draw with code in processing, which gives me a better understanding of how the processing is used. (create Canvas, ellipse, line, colour, if, keyPressed, mousePressed, translate)
 Here is my self-portrait (interactive)
 
- ![](portrait 2 (with code).jpg)
+ ![](https://github.com/gnunu/Slave-to-algorithm/blob/master/week%202/portrait%202%20(with%20code).jpg)
 
 And this is the one that I change other people’s code.
 
