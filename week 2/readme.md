@@ -2,7 +2,7 @@
 
 ## 12-hour Challenge form last week.
 
- ![](![Uploading remix.jpg…]())
+ ![Uploading remix.jpg…]()
 
 “What is the algorithm? It is an instruction, a calculation, a program. For our daily exercise, like cooking is an algorithm executed by humans.”
 So does painting and drawing.
@@ -28,9 +28,4 @@ Link https://youtu.be/rHtb9QYsV7M
 ## What I learn
 I learn not only how to code of drawing but also form a way of thinking. The thinking of order and making everything logically and put them in a system. I would not think about how to draw/do something with the order in my mind before. But after these two weeks of studying, this kind of way of thinking grows.
 
- ![](IMG_9870.jpg)
- 
- ![](IMG_9871.jpg)
- 
- ![](IMG_9867.jpg)
  
