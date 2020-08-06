@@ -2,7 +2,7 @@
 
 ## 12-hour Challenge form last week.
 
-![](week 2/12 hrs.jpg)
+![](![Uploading remix.jpg…]())
 
 “What is the algorithm? It is an instruction, a calculation, a program. For our daily exercise, like cooking is an algorithm executed by humans.”
 So does painting and drawing.
