@@ -2,7 +2,7 @@
 
 ## 12-hour Challenge form last week.
 
-![](![Uploading remix.jpg…]())
+ ![](![Uploading remix.jpg…]())
 
 “What is the algorithm? It is an instruction, a calculation, a program. For our daily exercise, like cooking is an algorithm executed by humans.”
 So does painting and drawing.
@@ -16,7 +16,7 @@ Note from class.
 We learned how to draw with code in processing, which gives me a better understanding of how the processing is used. (create Canvas, ellipse, line, colour, if, keyPressed, mousePressed, translate)
 Here is my self-portrait (interactive)
 
-![](portrait 2 (with code).jpg)
+ ![](portrait 2 (with code).jpg)
 
 And this is the one that I change other people’s code.
 
