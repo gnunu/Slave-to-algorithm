@@ -46,7 +46,7 @@ This one really shocks me of how real these people look.
 https://www.isaidif.net
 This one impressed me the most. When I was clicking it what came to my mind is that it looks like a prototype of people’s footprint on the internet work in nowadays. Every step is quite random but with thousands of connections.
 
-![](Screen Shot 2020-07-30 at 16.48.14.png)
+![](resesrch.jpg)
 
 http://davidjklein.ca/No-Regrets
 And this one, I really like the idea of words changed after time and if people who can not read it within a period that they set them this letter would be unreadable.
@@ -64,7 +64,7 @@ http://ravenkwok.com/big-brothers-are-watching-you/
 We made a painting system with some essential elements. 
 This is the outcome
 
-![](resesrch.jpg)
+![](system.jpg)
 
 2.5 fingerprint,3.3 left, 5.5 dodo, 6.4 curly, 2.5 999, 5.4 dragonfly
 
