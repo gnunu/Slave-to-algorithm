@@ -20,7 +20,7 @@ Here is my self-portrait (interactive)
 
 And this is the one that I change other people’s code.
 
-![](portrait 2 (with code).jpg)
+ ![](portrait 2 (with code).jpg)
 
 I made it interactive by letting the eyeball changed as the mouse move. And give it blush when the key is pressed. I made a small video show how it moves with the movie maker in processing.
 Link https://youtu.be/rHtb9QYsV7M
@@ -28,3 +28,9 @@ Link https://youtu.be/rHtb9QYsV7M
 ## What I learn
 I learn not only how to code of drawing but also form a way of thinking. The thinking of order and making everything logically and put them in a system. I would not think about how to draw/do something with the order in my mind before. But after these two weeks of studying, this kind of way of thinking grows.
 
+ ![](IMG_9870.jpg)
+ 
+ ![](IMG_9871.jpg)
+ 
+ ![](IMG_9867.jpg)
+ 
